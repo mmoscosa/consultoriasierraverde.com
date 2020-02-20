@@ -4,8 +4,9 @@
       <div class="row justify-content-center">
         <div class="col-lg-6">
           <div class="section-title text-center pb-20">
-            <h5 class="sub-title mb-15">Contact us</h5>
-            <h2 class="title">Get In touch</h2>
+            <h5 class="sub-title mb-15">Contacto</h5>
+            <h2 class="title">¡Ponte en contacto con nosotros!
+</h2>
           </div>
           <!-- section title -->
         </div>
