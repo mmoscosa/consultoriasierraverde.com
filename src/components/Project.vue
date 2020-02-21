@@ -4,7 +4,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-6">
           <div class="section-title text-center pb-50">
-            <h5 class="sub-title mb-15">Hacemos lo que nos apaciona</h5>
+            <h5 class="sub-title mb-15">Hacemos lo que nos apasiona</h5>
             <h2 class="title">¡Proyectos que te pueden interesar!</h2>
           </div>
           <!-- section title -->
