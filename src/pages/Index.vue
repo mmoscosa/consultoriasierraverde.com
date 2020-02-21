@@ -5,7 +5,6 @@
     <Services />
     <Project />
     <Team />
-    <Testimonial />
     <Contact />
     <Map />
   </Layout>

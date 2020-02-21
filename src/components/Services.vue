@@ -4,8 +4,8 @@
       <div class="row justify-content-center">
         <div class="col-lg-6">
           <div class="section-title text-center pb-20">
-            <h5 class="sub-title mb-15">Our Services</h5>
-            <h2 class="title">What We Do?</h2>
+            <h5 class="sub-title mb-15">NUESTROS SERVICIOS</h5>
+            <h2 class="title">¿Qué hacemos?</h2>
           </div>
           <!-- section title -->
         </div>
@@ -22,10 +22,10 @@
               <i class="lni-paint-roller"></i>
             </div>
             <div class="services-content mt-15">
-              <h4 class="services-title">Interior Design</h4>
+              <h4 class="services-title">UMAs y PMIVS</h4>
               <p class="mt-20">
-                Mauris aliquam, turpis sed mattis placerat, justo risus
-                pellentesque quam, id finibus risus arcu eget neque.
+                Creación, gestión, asesoría, regularización y responsabilidad
+                técnica de UMAs y PIMVS.
               </p>
             </div>
           </div>
@@ -41,10 +41,11 @@
               <i class="lni-blackboard"></i>
             </div>
             <div class="services-content mt-15">
-              <h4 class="services-title">Design Consultancy</h4>
+              <h4 class="services-title">
+                Control y rescate de fauna silvestre
+              </h4>
               <p class="mt-20">
-                Mauris aliquam, turpis sed mattis placerat, justo risus
-                pellentesque quam, id finibus risus arcu eget neque.
+                Ofrecemos soluciones para evitar el conflicto fauna-humano.
               </p>
             </div>
           </div>
@@ -60,10 +61,12 @@
               <i class="lni-home"></i>
             </div>
             <div class="services-content mt-15">
-              <h4 class="services-title">Residential Design</h4>
+              <h4 class="services-title">Impacto Ambiental</h4>
               <p class="mt-20">
-                Mauris aliquam, turpis sed mattis placerat, justo risus
-                pellentesque quam, id finibus risus arcu eget neque.
+                Manifestación de Impacto Ambiental, Estudio Técnico
+                Justificativo, Informe Preventivo en Materia de Impacto
+                Ambiental, Cambio de Uso de Suelo y seguimiento a medidas de
+                mitigación.
               </p>
             </div>
           </div>
@@ -79,10 +82,9 @@
               <i class="lni-briefcase"></i>
             </div>
             <div class="services-content mt-15">
-              <h4 class="services-title">Commercial Design</h4>
+              <h4 class="services-title">Proyectos ambientales</h4>
               <p class="mt-20">
-                Mauris aliquam, turpis sed mattis placerat, justo risus
-                pellentesque quam, id finibus risus arcu eget neque.
+                Conservación Reforestación Restauración Ecoturismo
               </p>
             </div>
           </div>
@@ -98,10 +100,9 @@
               <i class="lni-handshake"></i>
             </div>
             <div class="services-content mt-15">
-              <h4 class="services-title">Hospitality Design</h4>
+              <h4 class="services-title">Estudios técnicos de flora y fauna</h4>
               <p class="mt-20">
-                Mauris aliquam, turpis sed mattis placerat, justo risus
-                pellentesque quam, id finibus risus arcu eget neque.
+                Monitoreos e inventarios de flora y fauna para tu proyecto.
               </p>
             </div>
           </div>
@@ -117,10 +118,10 @@
               <i class="lni-grow"></i>
             </div>
             <div class="services-content mt-15">
-              <h4 class="services-title">Co-working Space Design</h4>
+              <h4 class="services-title">Educación Ambiental</h4>
               <p class="mt-20">
-                Mauris aliquam, turpis sed mattis placerat, justo risus
-                pellentesque quam, id finibus risus arcu eget neque.
+                Planeación y ejecución de programas de educación ambiental en
+                escuelas, empresas y público en general.
               </p>
             </div>
           </div>

@@ -10,26 +10,25 @@
                 data-wow-duration="1.5s"
                 data-wow-delay="1s"
               >
-                Hey Dude!
+                Empresa de consultoría ambiental
               </h4>
               <h1
                 class="banner-title mt-10 wow fadeInUp"
                 data-wow-duration="1.5s"
                 data-wow-delay="2s"
               >
-                <span>You're</span> Using Free Lite Version of This Template
+                <span>SIERRA VERDE</span> - Soluciones ambientales
               </h1>
               <p>
-                Please, consider purchasing full version to get all pages,
-                features, assets and permission to remove footer credits.
+                Somos una nueva generación de consultores ambientales
+                comprometidos con la conservación de
               </p>
               <a
                 class="banner-contact mt-25 wow fadeInUp"
                 data-wow-duration="1.5s"
                 data-wow-delay="2.3s"
                 rel="nofollow"
-                href="https://rebrand.ly/interior-ud"
-                >Get Full Version</a
+                >los recursos naturales de México.</a
               >
             </div>
             <!-- banner content -->
@@ -38,9 +37,10 @@
         <!-- row -->
       </div>
       <!-- container -->
+
       <div
         class="banner-image bg_cover"
-        style="background-image: url(~/assets/images/banner/banner-image.png)"
+        style="background-image: url(/src/assets/images/banner/banner-image.png)"
       ></div>
     </div>
     <!-- header banner -->

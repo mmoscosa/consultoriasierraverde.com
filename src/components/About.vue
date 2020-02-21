@@ -5,14 +5,16 @@
         <div class="col-lg-6">
           <div class="about-image mt-50 clearfix">
             <div class="single-image float-left">
-              <g-img src="~/assets/images/about/about-1.png" alt="About" />
+              <g-image src="~/assets/images/csv/4.jpg" alt="About" />
             </div>
             <!-- single image -->
             <div data-aos="fade-right" class="about-btn">
-              <a class="main-btn" href="#"><span>27</span> Years Experience</a>
+              <a class="main-btn" href="#"
+                ><span>10+</span> Años de experiencia</a
+              >
             </div>
             <div class="single-image image-tow float-right">
-              <g-img src="~/assets/images/about/about-2.png" alt="About" />
+              <g-image src="~/assets/images/csv/3.jpg" alt="About" />
             </div>
             <!-- single image -->
           </div>
@@ -20,23 +22,21 @@
         </div>
         <div class="col-lg-6">
           <div class="about-content mt-45">
-            <h4 class="about-welcome">About Us</h4>
-            <h3 class="about-title mt-10">Reasons to choose</h3>
+            <h4 class="about-welcome">Nosotros</h4>
+            <h3 class="about-title mt-10">Razones para considerarnos</h3>
             <p class="mt-25">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages <br />
-              <br />It was popularised in the 1960s with the release of Letraset
-              sheets containing Lorem Ipsum passages, and more recently with
-              desktop publishing software like Aldus PageMaker including
-              versions of Lorem Ipsum.
+              Nuestra misión es crear, gestionar y asesorar proyectos
+              relacionados al aprovechamiento y conservación de los recursos
+              naturales de México. Procurando un equilibrio entre la sociedad y
+              el ambiente, dando solución a los requerimientos de las
+              dependencias ambientales y generando alternativas viables de
+              desarrollo sustentable.
+              <br />
+              <br />Buscamos ser una empresa líder, distinguidos por la calidad
+              y ética de nuestro trabajo, formando un vínculo entre las
+              necesidades de nuestros clientes con los lineamientos de las
+              autoridades ambientales, todo en un contexto de sustentabilidad.
             </p>
-            <a class="main-btn mt-25" href="#">learn more</a>
           </div>
           <!-- about content -->
         </div>
