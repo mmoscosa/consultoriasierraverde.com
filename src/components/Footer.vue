@@ -6,7 +6,7 @@
                     <div class="col-lg-3 col-md-4 col-sm-8">
                         <div class="footer-logo mt-50">
                             <a href="#">
-                                <img src="assets/images/logo.png" alt="Logo">
+                                <g-image src="~/assets/images/logo.png" alt="Logo"/>
                             </a>
                             <ul class="footer-info">
                                 <li>

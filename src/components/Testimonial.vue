@@ -1,18 +1,18 @@
 <template>
   <section id="testimonial" class="testimonial-area pt-130 pb-130">
     <div class="shape shape-one">
-      <img src="assets/images/testimonial/shape.png" alt="testimonial" />
+      <g-image src="~/assets/images/testimonial/shape.png" alt="testimonial" />
     </div>
     <div class="shape shape-tow">
-      <img src="assets/images/testimonial/shape.png" alt="testimonial" />
+      <g-image src="~/assets/images/testimonial/shape.png" alt="testimonial" />
     </div>
     <div class="shape shape-three">
-      <img src="assets/images/testimonial/shape.png" alt="testimonial" />
+      <g-image src="~/assets/images/testimonial/shape.png" alt="testimonial" />
     </div>
     <div class="container">
       <div
         class="testimonial-bg bg_cover pt-80 pb-80"
-        style="background-image: url(assets/images/testimonial/testimonial-bg.jpg)"
+        style="background-image: url(~/assets/images/testimonial/testimonial-bg.jpg)"
       >
         <div class="row">
           <div
@@ -21,8 +21,8 @@
             <div class="testimonial-active">
               <div class="single-testimonial text-center">
                 <div class="testimonial-image">
-                  <img
-                    src="assets/images/testimonial/t-1.jpg"
+                  <g-image
+                    src="~/assets/images/testimonial/t-1.jpg"
                     alt="Testimonial"
                   />
                   <div class="quota">
@@ -42,8 +42,8 @@
               <!-- single-testimonial -->
               <div class="single-testimonial text-center">
                 <div class="testimonial-image">
-                  <img
-                    src="assets/images/testimonial/t-2.jpg"
+                  <g-image
+                    src="~/assets/images/testimonial/t-2.jpg"
                     alt="Testimonial"
                   />
                   <div class="quota">
@@ -63,8 +63,8 @@
               <!-- single-testimonial -->
               <div class="single-testimonial text-center">
                 <div class="testimonial-image">
-                  <img
-                    src="assets/images/testimonial/t-3.jpg"
+                  <g-image
+                    src="~/assets/images/testimonial/t-3.jpg"
                     alt="Testimonial"
                   />
                   <div class="quota">
